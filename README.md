@@ -63,7 +63,7 @@ This code is for a simple ATM (Automated Teller Machine) system. It allows users
 ```
 ****************************************************************************
 *                                                                          *
-*                         Welcome to my ATM MACHINE                           *
+*                         Welcome to my ATM MACHINE                        *
 *                                                                          *
 ****************************************************************************
 
@@ -92,6 +92,3 @@ Precious, YOU HAVE ₦10,000 ON YOUR ACCOUNT.
 
 Note: This is a simple demonstration code and should not be used for real-world applications. It lacks proper security measures and validation checks for a genuine ATM system.
 
-# FEEDBACK
-Any suggestion and feedback is welcome. You can message me on Instagram
-- https://www.instagram.com/itz_me_sooriii?r=nametag
