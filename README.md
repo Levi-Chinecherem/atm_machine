@@ -1,6 +1,8 @@
 
 # ATM MACHINE CODE
 
+![Sample Output](https://github.com/Levi-Chinecherem/atm_machine/blob/master/sample.PNG)
+
 **Description:**
 This code is for a simple ATM (Automated Teller Machine) system. It allows users to log in with their usernames and PINs and perform various operations such as checking their account balance, withdrawing money, depositing money, and changing their PIN.
 
